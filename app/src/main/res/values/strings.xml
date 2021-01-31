@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DownloadAndSaveRemoteFile</string>
+    <string name="storage">Storage</string>
+    <string name="how">How</string>
+    <string name="allow_storage">Allow storage permission</string>
+    <string name="switcher">Switch</string>
+    <string name="name">First Last</string>
+    <string name="enter">Enter</string>
+    <string name="download">Downloading...</string>
+
+</resources>
